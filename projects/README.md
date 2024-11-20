@@ -23,7 +23,7 @@ Criando uma coluna região e valores dessa mesma região.<br>
 Criei as colunas Year_Category, essa  anos categorias informando que games com anos de lançamento < 2000 é "retro" e > 2000 "moderno"<br> Rank_Category e essa informa que game com ranks abaixo de 100 é "otimo", acimma e até 500 e "normal" e > amior que 500 é "ruim"
 
 ## 3. Avalição e Métricas
-Acuracidade e um relatório dessa métrica foi ótimo! Porém, irei usar outras métricas.<br>
+Acuracidade e um relatório dessa métrica foi ótimo! Porém, irei usar outras métricas (futuramente).<br>
 O resultado foi  Acurácia do modelo: **0.86 padrão**.<br>
 Acurácia: **85.91%** 
 
