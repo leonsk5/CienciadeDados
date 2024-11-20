@@ -5,6 +5,10 @@ Esse dataset foi baixado do site da Kaggle.
 Os dados contêm informações de duas décadas de vendas de games no mundo.
 Escolhi esses dados, por ser um grande consumidor do mercado.
 
+**Explicação do Problema**<br>
+No dataset vgsales.csv, temos informações sobre vendas de jogos de vídeo, incluindo colunas como nome do jogo, plataforma, ano de lançamento, gênero, entre outras.<br> A tarefa aqui é construir um modelo de classificação que possa prever uma categoria (por exemplo, o gênero do jogo ou a região com maior venda) com base nas outras características do jogo.
+
+
 Explicação em relação ao que foi feito nesse dataset.
 
 ## 1.Pré-processamento
