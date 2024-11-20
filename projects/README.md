@@ -16,16 +16,16 @@ As colunas não renomeadas estão em inglês e portuges :( , futuramente correç
 
 ## 2. Modelagem 
 XGBoost por ser um bom algoritmo para esse dataset e para o que precisava.
-Transformamos as colunas categorias para numéricas.
-***IMPORTATNE***
+Transformamos as colunas categorias para numéricas.<br>
+***IMPORTATNE***<br>
 Criei features para melhorar na modelagem, então mesclei as colunas de vendas.
 Criando uma coluna região e valores dessa mesma região.
 Criei as colunas Year_Category, Rank_Category
 
 ## 3. Avalição e Métricas
 Acuracidade e um relatório dessa métrica foi ótimo! Porém, irei usar outras métricas.<br>
-O resultado foi  Acurácia do modelo: 0.86 padrão.<br>
-Acurácia: 85.91%  
+O resultado foi  Acurácia do modelo: **0.86 padrão**.<br>
+Acurácia: **85.91%** 
 
 
  
