@@ -1,4 +1,4 @@
-# Em relação aos projetos aqui postados
+# Em relação ao dataset vgsales.csv
 
 Esse dataset foi baixado do site da Kaggle: Your Home for Data Science.
 
