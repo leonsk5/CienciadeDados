@@ -34,9 +34,10 @@ import numpy as np
 python classificacao-spam-naospam.ipynb
 
 # Testar modelo
-exemplo = ["Meeting with the board."] """<-- Aqui esta o input para testar o modelo, não vou me preocupar em criar um interface gráfica, deixo para dev frontend 💁‍♀️. 
+exemplo = ["Meeting with the board."] <-- Aqui esta o input para testar o modelo,
+não vou me preocupar em criar um interface gráfica, deixo para dev frontend 🤦‍♂️. 
 Minha preucipaçoes é com Bag of Words, TF-IDF e Naïve Bayes e muito outros.
-"""
+
 X_exemplo = vetorizador.transform(exemplo)
 # 1 = spam, 0 = não spam
 print("É spam?", modelo.predict(X_exemplo)[0]) 
